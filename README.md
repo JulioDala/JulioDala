@@ -1,4 +1,4 @@
-## Sou o Julio Dala, programador FullStack!
+## Sou o Julio Dala, programador FullStack junior!
 <div align="center">
   <a href="https://github.com/JulioDala ">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JulioDala&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
